@@ -30,10 +30,21 @@
 <div/>
 
 ### Last projects:
-- [RS Bank](https://rsbank.netlify.app/)  
-HTML, SCSS, TypeScript, SPA, Express, Mongo DB
-- [Online store](https://kk-sh8-store.netlify.app/)  
+- [RS Bank](https://rsbank-mirror.netlify.app/) ([Alt link](https://rsbank.netlify.app/)) *  <br> 
+HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB <br>
+A response delay of up to 30 seconds for the first request due to free server hosting!
+
+- [Online store](https://kk-sh8-store.netlify.app/) <br> 
 HTML, SCSS, TypeScript, SPA
+
+- [Song Bitd Quiz](https://kkolite-ptushki.netlify.app/) <br> 
+HTML, SCSS, JavaScript
+
+- [Momentum](https://kkolite-momentum.netlify.app/) <br> 
+HTML, CSS, JavaScript
+
+- ["Eldritch Horror" helper](https://kkolite-eldritch.netlify.app/) <br> 
+HTML, CSS, JavaScript
 
 ### Codewars: 
 
