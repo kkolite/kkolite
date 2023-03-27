@@ -1,4 +1,9 @@
-[My Telegram](https://t.me/litavar)
+### About Me
+
+Front-end developer. Top-10 of RSS FE 2022Q3. I'm currently looking for new opportunities.
+
+[RSS CV](https://app.rs.school/cv/de0b955b-23f4-4584-8daa-775bbebeb65e)
+[My Telegram](https://t.me/litavar).
 
 ### Skills: 
 <div>
