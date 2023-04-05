@@ -48,9 +48,6 @@ HTML, SCSS, JavaScript
 - [Momentum](https://kkolite-momentum.netlify.app/) <br> 
 HTML, CSS, JavaScript
 
-- ["Eldritch Horror" helper](https://kkolite-eldritch.netlify.app/) <br> 
-HTML, CSS, JavaScript
-
 ### Codewars: 
 
 ![](https://www.codewars.com/users/kkolite/badges/large)
