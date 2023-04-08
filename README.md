@@ -35,12 +35,14 @@ Front-end developer. Top-10 of RSS FE 2022Q3. I'm currently looking for new oppo
 <div/>
 
 ### Last projects:
-- [RS Bank](https://rsbank-mirror.netlify.app/) ([Alt link](https://rsbank.netlify.app/)) *  <br> 
+- [RS Bank](https://rsbank-mirror.netlify.app/) <br> 
 HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB <br>
-A response delay of up to 30 seconds for the first request due to free server hosting!
+A response delay of up to 30 seconds for the first request due to free server hosting! <br>
+[Repo](https://github.com/kkolite/Internet-Bank)
 
 - [Online store](https://kk-sh8-store.netlify.app/) <br> 
-HTML, SCSS, TypeScript, SPA
+HTML, SCSS, TypeScript, SPA <br>
+[Repo](https://github.com/kkolite/online-store/tree/develop)
 
 - [Song Bitd Quiz](https://kkolite-ptushki.netlify.app/) <br> 
 HTML, SCSS, JavaScript
