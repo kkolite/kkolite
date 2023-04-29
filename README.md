@@ -32,6 +32,10 @@ Front-end developer. Top-10 of RSS FE 2022Q3. I'm currently looking for new oppo
 ### Experience: 1+ year
 
 ### Pet projects:
+ - [Typing Test](https://kkolite-typing.netlify.app/) <br>
+React, Redux + RTK, TypeScript, SCSS <br>
+[Repo](https://github.com/kkolite/TypingTest)
+ 
 - [NHL Next](https://nhl-next.netlify.app/) <br>
 Next.js, React, Redux + RTK, TypeScript, SCSS <br>
 [Repo](https://github.com/kkolite/nhl-next)
@@ -40,11 +44,6 @@ Next.js, React, Redux + RTK, TypeScript, SCSS <br>
 HTML, SCSS, TypeScript, SPA, Node.js / Express, Mongo DB <br>
 A response delay of up to 30 seconds for the first request due to free server hosting! <br>
 [Repo](https://github.com/kkolite/Internet-Bank)
-
-- [Online store](https://kk-sh8-store.netlify.app/) <br> 
-HTML, SCSS, TypeScript, SPA <br>
-[Repo](https://github.com/kkolite/online-store/tree/develop)
-
 
 ### Codewars: 
 
