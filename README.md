@@ -1,6 +1,6 @@
 ### About Me
 
-Front-end developer. Top-10 of RSS FE 2022Q3. I'm currently looking for new opportunities.
+Front-end developer. Top-10 of RSS FE 2022Q3. 
 
 [My Telegram](https://t.me/litavar).
 
